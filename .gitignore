@@ -61,6 +61,9 @@ buck-out/
 android/app/libs
 android/keystores/debug.keystore
 
+# Npm
+package-lock.json
+
 # Yarn
 .yarn/*
 !.yarn/patches
